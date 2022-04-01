@@ -22,7 +22,7 @@ Xây dựng ứng dụng máy tính bỏ túi có giao diện người dùng b�
 
 > python3 pycalc.py
 
-<center>![[Pasted image 20220401110749.png]](https://github.com/LanPhuong07/Calculator/blob/main/imgs/Pasted%20image%2020220401110749.png)</center>
+![[Pasted image 20220401110749.png]](https://github.com/LanPhuong07/Calculator/blob/main/imgs/Pasted%20image%2020220401110749.png)
 
 Thiếu gì thì tự đi mà install, ai rảnh mà nhớ chứ :< Copy thì nhớ mà làm cho có tâm một tí, đừng có mà làm ảnh hưởng đến người khác! 
 
